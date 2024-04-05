@@ -29,3 +29,5 @@
 @font-face  { font-family: "Custom"; src: url("CustomFont.ttf") }
 .fixed-nav-bar {position: fixed; top: 0; left: 0; z-index: 9999; width: 100%; background-color:rgba(9,9,9,.80)}
 .dark .statia {width: 50%;}
+.dark table a { color: #a366ff; cursor: pointer; text-decoration: none;}
+.dark .post {width: 70%; align-items: center;}
