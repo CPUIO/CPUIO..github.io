@@ -26,6 +26,6 @@
 .dark .avatarholder,.dark .placeholder{background-color:transparent;border-color:#333}
 .dark .menu .menu-item{color:#4AF34A;border-color:rgba(95,95,95,.78)}
 .dark .menu .menu-item.active,.dark .menu .menu-item:hover{color:#fff;border-color:#4AF34A}
-@font-face { font-family: "Custom"; src: url("CustomFont.ttf") }
+@font-face  { font-family: "Custom"; src: url("CustomFont.ttf") }
 .fixed-nav-bar {position: fixed; top: 0; left: 0; z-index: 9999; width: 100%; background-color:rgba(9,9,9,.80)}
 .dark .statia {width: 50%;}
