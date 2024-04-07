@@ -31,3 +31,4 @@
 .dark .statia {width: 70%;}
 .dark a { color: #a366ff; cursor: pointer; text-decoration: none;}
 .dark .post {width: 70%; align-items: center;}
+.dark ascii {white-space: pre; align-items: left;}
