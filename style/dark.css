@@ -29,7 +29,7 @@
 @font-face  { font-family: "Custom"; src: url("CustomFont.ttf") }
 .fixed-nav-bar {position: fixed; top: 0; left: 0; z-index: 9999; width: 100%; background-color:rgba(9,9,9,.80)}
 .dark .statia {width: 70%;}
-.dark a { color: #a366ff; cursor: pointer; text-decoration: none;}
+.dark a { color: #a366ff; cursor: pointer; text-decoration: none; white-space: pre}
 .dark .post {width: 70%; align-items: center;}
 .dark ascii {white-space: pre; align-items: left;}
 .dark p { font-size: 100%;}
