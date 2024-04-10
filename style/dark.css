@@ -4,8 +4,8 @@
 .dark h1 a,.dark h2 a,.dark h3 a,.dark h4 a,.dark h5 a{color:#4AF34A}
 .dark code,.dark strong{color:#fff}
 .dark code{font-weight:100}
-.dark table{color:#a366ff; table-layout: fixed; width: 50%;}
-.dark table td,.dark table th{border-color:#444; text-align: center; word-break: break-all;}
+.dark table{color:#a366ff; table-layout: auto;}
+.dark table td,.dark table th{border-color:#444; text-align: center; word-break: break-all; width: 33%;}
 .dark th {font-size: 160%;}
 .dark table tbody td:first-child{color:#a366ff}
 .dark .form-group label{color:#4AF34A;border-color:rgba(95,95,95,.78)}
@@ -31,5 +31,6 @@
 .dark .statia {width: 70%;}
 .dark a { color: #a366ff; cursor: pointer; text-decoration: none; white-space: pre}
 .dark .post {width: 70%; align-items: center;}
-.dark ascii {white-space: pre; align-items: left;}
+.dark ascii {border: 1px solid #ccc;}
+.dark menu {width: 33%;}
 .dark p { font-size: 100%;}
